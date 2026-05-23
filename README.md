@@ -46,6 +46,7 @@ NB : System apps cannot truly be uninstalled without root (see the [FAQ](https:/
 - [ ] Archos
 - [x] Asus
 - [ ] Blackberry
+- [x] CMF PHONE 
 - [ ] Gionee
 - [x] LG
 - [x] Google
@@ -55,6 +56,7 @@ NB : System apps cannot truly be uninstalled without root (see the [FAQ](https:/
 - [x] Huawei
 - [x] Motorola
 - [x] Nokia
+- [x] Nothing
 - [x] OnePlus
 - [x] Oppo
 - [x] Realme
