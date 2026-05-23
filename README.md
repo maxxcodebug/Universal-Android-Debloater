@@ -77,9 +77,8 @@ NB : System apps cannot truly be uninstalled without root (see the [FAQ](https:/
 | Germany | Telekom                         |
 | UK      | EE                              |
 | India.  | Vi, Airtel, Jio, BSNL.          |
-| Japan   | Docomo, au, SoftBank, Rakuten.  |
-|           Mobile                          |
-
+| Japan   | Docomo, au, SoftBank, Rakuten Mobile |
+               
 ## How to use it
 
 - **Read the [FAQ](https://github.com/0x192/universal-android-debloater/wiki/FAQ)!**
