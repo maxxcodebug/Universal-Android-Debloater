@@ -76,6 +76,9 @@ NB : System apps cannot truly be uninstalled without root (see the [FAQ](https:/
 | USA     | T-Mobile, Verizon, Sprint, AT&T |
 | Germany | Telekom                         |
 | UK      | EE                              |
+| India.  | Vi, Airtel, Jio, BSNL.          |
+| Japan   | Docomo, au, SoftBank, Rakuten.  |
+|           Mobile                          |
 
 ## How to use it
 
